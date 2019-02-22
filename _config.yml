@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Ehsan Reihani"
+title                    : "Dr. Ehsan Reihani"
 title_separator          : "-"
 name                     : &name "Ehsan Reihani"
 description              : &description "personal description"
@@ -96,7 +96,7 @@ author:
   keybase          :
   instagram        :
   lastfm           :
-  linkedin         : "ehsan-reihani-115a17133"
+  linkedin         : ehsan-reihani-115a17133
   orcid            : #"http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
