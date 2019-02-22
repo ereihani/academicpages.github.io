@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Ehsan Reihani / Site Title"
+title                    : "Ehsan Reihani"
 title_separator          : "-"
 name                     : &name "Ehsan Reihani"
 description              : &description "personal description"
