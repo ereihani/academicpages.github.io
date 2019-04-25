@@ -12,8 +12,8 @@ I am an Assistant Professor at Department of Electrical and Computer Engineeing 
 
 Research Interests
 ======
-- Control and Optimization of Distributed Energy Resources (DER)
-- Economic and Stability Analysis of DERs in the Distribution Grid
+- Renewable Energy Integration
+- Economic and Stability Analysis of Distributed Energy Resources in the Power Grid
 - Stochastic Control and Optimization
 
 News
